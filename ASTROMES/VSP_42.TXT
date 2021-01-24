@@ -1,0 +1,19 @@
+MONATSSTRUKTUR             nach dem Lunarhoroskop fr %s
+_____________________________________vom %s__bis_%s______
+
+Die Kommentare wurden nicht speziell auf diese Monatsstruktur abgestimmt.
+Weil das Solar aber ebenso wie das Radix ein eigenst„ndiges Horoskop
+darstellt und die Pers”nlichkeitsauswertung als Funktion ohnehin vorhanden
+ist, wurde diese Auswertungsm”glichkeit belassen.
+
+Die Monatsstruktur zeigt, welche Pers”nlichkeitsbereiche im gew„hlten
+Monatszyklus besonders in den Vordergrund treten; in welchen also mit
+Ereignissen zu rechnen ist, und auf welche Art man damit umgeht.
+
+Allerdings ist dabei zu bercksichtigen, daá es sich dabei nur um eine Art
+seelischer Wetterkarte handelt, die Hoch- und Tiefdruckgebiete aufzeigt. Das
+muá aber noch nicht heiáen, daá diese Prognose dann tats„chlich eintrifft.
+
+							 --- ! ---
+
+*

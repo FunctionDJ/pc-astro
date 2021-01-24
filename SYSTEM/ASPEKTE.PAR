@@ -1,0 +1,30 @@
+#Aspektdaten
+#
+# Vorsicht! keine Leerzeilen; Kommentarzeilen '#' am Anfang
+#
+6   Anzahl Aspekte  (maximal 10)
+#
+# Kennung (3 Zeichen), Winkel in Grad (ganzzahlig), Orbis (1% - 100%)
+#
+KON     0   100
+SXT    60    80
+QUA    90    80
+TRI   120   100
+QKX   150    40
+OPP   180   100
+#
+# max. Orbis (100%) der Planeten in Grad (ganzzahlig)
+#
+#   son mon mer ven mar jup sat ura nep plu kno
+son  12
+mon  12  11
+mer  10  10   9
+ven  10  10   8   8
+mar   8   8   8   8   7
+jup   8   8   7   7   6   6
+sat   6   6   6   6   6   5   5
+ura   6   6   5   5   4   4   4   4
+nep   5   5   5   5   4   4   4   4   4
+plu   5   5   4   4   4   4   4   4   4   4
+kno   4   4   4   4   4   4   4   4   4   4   4
+

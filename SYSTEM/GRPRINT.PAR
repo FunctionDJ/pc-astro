@@ -1,0 +1,15 @@
+;HP Laser 150 DPI
+0	 		init
+0           zeilenanfang
+0           zeilenende
+6 27 42 114 66 13 10 ende
+1       Bytes pro Linie
+800     Papierbreite in hundertstel Zoll
+1200    Hoehe
+15      Linker Rand
+150     Druckdichte horizontal
+150     Druckdichte vertikal
+1       Aufloesung hor
+1       Aufloesung ver
+0       Quer  / Hoch
+90      FÅllfaktor

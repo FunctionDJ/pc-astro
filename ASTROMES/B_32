@@ -1,0 +1,61 @@
+#sb
+   ----------- Winkel zwischen Geburtsplaneten ------------------------------
+
+               Son Mon Mer Ven Mar Jup Sat Ura Nep Plu Kno
+#sp
+   #ng0        #ag011
+#sb
+
+   ----------- Winkel zwischen Geburtsplaneten und aktuellen Positionen -----
+
+      Aktuell: Son Mon Mer Ven Mar Jup Sat Ura Nep Plu Kno
+   Radix:
+#sp
+   #ng0        #ag012
+#sb
+
+   ------------ Winkel zwischen Planeten und H„userspitzen ------------------
+
+           Haus 1   2   3   4   5   6   7   8   9   10  11  12
+   Radix
+#sp
+   #ng0         #ag013
+#sb
+
+           Haus 1   2   3   4   5   6   7   8   9   10  11  12
+   Aktuell
+#sp
+   #np0         #ap013
+#ss
+
+   H„user:
+   ------
+#sh
+   ----------------------#kh011  --------------------------------------------
+   Position:  #dh0         Herrscher: #dd0     in #de0      Aktuell: #df0
+   Planetenbesetzung Radix:   #di0
+                   Aktuell:   #dj0
+   Aspekte mit Radix-Planeten:
+                              #ah021
+   Aspekte mit aktuellen Pos.:
+                              #ah022
+#sb
+#ss
+
+   Planeten:
+   --------
+#sp
+   ----------------------#kg011,   ------------------------------------------
+   #dg0         #dn0    Aktuell: #dp0         #dm0    #dl0
+   Aspekte:
+         Geburtsplaneten zueinander:
+         #ag021
+         #ag023
+         Geburt zu Aktuell:
+         #ag022
+         Aktuelle Posit. zueinander:
+         #ap022
+         #ap023
+
+#se
+

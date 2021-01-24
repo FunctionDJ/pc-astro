@@ -1,0 +1,15 @@
+;Epson 9 Nadeln
+7 27 64 27 79 27 65 8     init
+3 27 42 1           zeilenanfang
+2 13 10             zeilenende
+3 27 65 10       ende
+1       Bytes pro Linie
+800     Papierbreite in hundertstel Zoll
+1200    Hoehe
+15      Linker Rand
+120     Druckdichte horizontal
+60      Druckdichte vertikal
+1       Aufloesung hor
+1       Aufloesung ver
+0       Quer  / Hoch
+99      FÅllfaktor

@@ -1,0 +1,139 @@
+# Bewertungstabelle Haus im Zeichen
+# ( Basiswert des Amplitudenausschlags)
+
+#wid  sti    zwi    kre    l”w    jun    waa    sco    sch    ste   was    fis
+1     0      0      -1     1      0      0      -1     0      0     -1     1
+-1    1      0      0      -1     1      0      0      -1     1      0     0
+0     -1     1      0      0      -1     1      0      0      -1     1     0
+0     0      -1     1      0      0      -1     1      0      0     -1     1
+1     0      0      -1     1      0      0      -1     0      0     -1     1
+-1    1      0      0      -1     1      0      0      -1     1      0     0
+0     -1     1      0      0      -1     1      0      0      -1     1     0
+0     0      -1     1      0      0      -1     1      0      0     -1     1
+1     0      0      -1     1      0      0      -1     0      0     -1     1
+-1    1      0      0      -1     1      0      0      -1     1      0     0
+0     -1     1      0      0      -1     1      0      0      -1     1     0
+0     0      -1     1      0      0      -1     1      0      0     -1     1
+
+# Planetenbewertung
+# 1. Wirkst„rkebestimmung
+# Grundpunktzahl der Planeten:
+6  # Sonne
+5  # Mond
+4  # Merkur
+4  # Venus
+4  # Mars
+5  # Jupiter
+5  # Saturn
+4  # Uranus
+4  # Neptun
+4  # Pluto
+
+# Zu diese Grundpunktzahl addiert sich die Zahl, die sich aus der
+# Stellung des Planeten im Zeichen ergibt (Widder - Fische)
+
+#So    Mo      Me      Ve      Ma      Ju      Sa      Ur      Ne      Pl
+2      0       0       -2      2       0       -1      0       0       0
+1      2       0       2       -2      0       0       -1      0       -2
+0      0       2       0       0       -2      0       0       -1      0
+0      2       0       0       -1      1       -2      0       0       0
+2      0       0       0       0       0       0       -2      0       1
+0      0       2       -1      0       0       0       0       -2      0
+-1     0       0       2       0       0       1       0       0       0
+0      -1      0       0       2       0       0       1       0       2
+0      0       0       0       0       2       0       0       1       0
+0      -2      0       0       1       -1      2       0       0       0
+-2     0       0       0       0       0       2       2       0       -1
+0      0       -2      1       0       2       0       0       2       0
+
+# 2. Wirkrichtungsbestimmung
+# Aus der n„chsten Tabelle ergibt sich jeweils der %-Anteil, der vom Ergebnis
+# aus 1. im Haus als positiver Ausschlag gewertet wird, der Rest ist negativ.
+
+#So    Mo      Me      Ve      Ma      Ju      Sa      Ur      Ne      Pl
+100    40      80      100     50      100     60      60      20      70
+100    60      80      100     50      70      40      50      20      50
+100    60      80      90      40      40      30      50      50      20
+100    100     60      100     80      80      40      20      20      20
+100    80      40      100     90      90      30      30      30      50
+60     20      100     100     100     60      80      60      50      30
+100    60      90      80      50      100     40      30      30      30
+80     20      70      70      50      70      50      20      20      30
+100    100     70      90      70      100     70      80      50      70
+100    80      80      80      90      100     50      30      30      60
+90     40      80      80      80      90      30      80      70      50
+20     30      20      70      20      50      20      70      70      50
+
+# Die Wirkrichtung wird zus„tzlich beeinfluát durch die Aspekteinwirkung.
+# Dabei korrigieren sich die Werte aus der Tabelle Plenet im Haus um die
+# Werte aus den folgenden Aspekttabellen. Die Korrektur erfolgt in einem
+# Durchlauf, also nicht rekursiv, d.h. die Korrektur erfolgt am ersten
+# Planeten des Aspektes
+
+# Konjunktion
+#So     Mo      Me      Ve      Ma      Ju      Sa      Ur      Ne      Pl
+0																		   #s
+0                                                                          #m
+0       5                                                                  #m
+5       5       10                                                         #v
+0       -5      5       5                                                  #m
+5       0       5       5       5                                          #j
+-5      -5      5       5       0       -5                                 #s
+5       0       5       0       0       5       5                          #u
+0       0       0       5       5       5       0       10                 #n
+5       0       5       5       5       5       0       0       0          #p
+
+# Sextil
+#So     Mo      Me      Ve      Ma      Ju      Sa      Ur      Ne      Pl
+0																	   #so
+3                                                                          #mo
+0       3                                                                  #me
+0       3       0                                                          #ve
+3       3       3       3                                                  #ma
+6       3       3       3       3                                          #ju
+3       3       3       3       3       3                                  #sa
+3       3       3       3       3       3       3                          #ur
+3       0       3       3       3       0       3       0                  #ne
+3       3       3       3       3       3       0       0       0          #pl
+
+# Quadrat
+#So     Mo      Me      Ve      Ma      Ju      Sa      Ur      Ne      Pl
+0																	   #so
+0                                                                          #mo
+0       -5                                                                 #me
+0       -5      0                                                          #ve
+-5      -5      -5      -5                                                 #ma
+-5      -5      -5      -10     -10                                        #ju
+-10     -5      -10     -5      -10     -5                                 #sa
+-5      0       0       -5      -5      -5      -5                         #ur
+-5      -10     -5      -5       0      -5      -5      0                  #ne
+-5      -5      0       -5       -5     -5      -5      0       0          #pl
+
+
+# Trigon
+#So     Mo      Me      Ve      Ma      Ju      Sa      Ur      Ne      Pl
+0																	   #so
+5                                                                          #mo
+0       5                                                                  #me
+0       5       0                                                          #ve
+5       5       5       5                                                  #ma
+10      5       5       5       5                                          #ju
+5       5       5       5       5       5                                  #sa
+5       5       5       5       5       5       5                          #ur
+5       0       5       5       5       0       5       0                  #ne
+5       5       5       5       5       5       0       0       0          #pl
+
+# Opposition
+#So     Mo      Me      Ve      Ma      Ju      Sa      Ur      Ne      Pl
+0																	   #so
+-5                                                                         #mo
+0       -5                                                                 #me
+0       -5      0                                                          #ve
+-5      -5      0       -5                                                 #ma
+-5      -5      -5      -5      0                                          #ju
+-5      0       -5      -5      -5      -5                                 #sa
+-5      0       0       -5      -5      -5      -5                         #ur
+-5      0       5       -5      0       -5      0       0                  #ne
+-5      0       0       -5      0       -5      0       0       0          #pl
+
+

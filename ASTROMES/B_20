@@ -1,0 +1,20 @@
+#sb
+
+   PC ASTROLOGIE  #dx1                           Datum: #dc3           #dc4
+   ----------------------------------------------------------------------------
+      Sommerzeit: #dc8           Zeitzone: #dc7        Greenwich-Zeit: #dca
+      Sternzeit:  #dc9           Greenwich-Sternzeit 00:00        GMT: #dcb
+
+   __ Positionen _______________________________________
+#sp
+      #ng0                #dp0
+#sb
+
+   __ Winkel zwischen den Planeten (Grad) ______________
+             Son Mon Mer Ven Mar Jup Sat Ura Nep Plu Kno
+#sp
+   #ng0      #ap012
+#sb
+   ============================================================================
+#se
+

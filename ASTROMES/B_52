@@ -1,0 +1,61 @@
+#sb
+   ------------- Winkel zwischen Planeten im Sonderhoroskop -----------------
+
+
+                 Son Mon Mer Ven Mar Jup Sat Ura Nep Plu Kno
+#sp
+     #ng0        #ag011
+#sb
+
+   ------ Winkel zwischen Sonderh.-Planeten und aktueller Position ---------
+
+        Aktuell: Son Mon Mer Ven Mar Jup Sat Ura Nep Plu Kno
+     Sonderhor.:
+#sp
+     #ng0        #ag012
+#sb
+
+   ------------ Winkel zwischen Planeten und H„userspitzen ------------------
+
+            Haus 1   2   3   4   5   6   7   8   9   10  11  12
+   Sonderhor.:
+#sp
+     #ng0        #ag013
+#sb
+
+            Haus 1   2   3   4   5   6   7   8   9   10  11  12
+     Aktuell:
+#sp
+     #np0        #ap013
+#sb
+
+   H„user:
+   ------
+#sh
+   ------------------------#kh011  ------------------------------------------
+   Position:  #dh0         Herrscher: #dd0      in #de0     derzeit: #df0
+   Radixbesetzung: #di0
+          derzeit: #dj0
+   Aspekte mit Radix-Planeten:
+                              #ah021
+   Aspekte mit aktuellen Pos.:
+                              #ah022
+#ss
+
+   Planeten:
+   --------
+#sp
+
+   ----------------------#kg011,   ------------------------------------------
+   #dg0        #dn0     derzeit: #dp0       #dm0     #dl0
+   Aspekte:
+            Sonderh. - Sonderh.
+            #ag021
+            #ag023
+            Sonderh. - Aktuell
+            #ag022
+            Aktuell  - Aktuell
+            #ap022
+            #ap023
+#se
+

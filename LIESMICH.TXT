@@ -1,0 +1,108 @@
+LIESMICH.TXT
+============
+
+Das Programm ist nun installiert. Bitte lesen Sie sich nun den folgenden 
+Text aufmerksam durch.
+Sollten Probleme mit unserer Software auftreten, dann beachten Sie bitte
+folgendes :
+
+1. Lesen Sie immer das Handbuch. Eventuell handelt es sich um einen 
+   Bedienungsfehler.
+
+2. Prfen Sie, ob Ihr System mit den Systemvoraussetzungen bereinstimmt.
+
+3. šberprfen Sie mit Hilfe der Befehle CHKDSK oder MEM, ob gengend
+   Hauptspeicher frei ist (mind. 480 KByte).
+
+4. Entfernen Sie eventuell speicherresidente Programme oder Treiber aus
+   den Dateien CONFIG.SYS oder AUTOEXEC.BAT und fhren Sie anschlieáend
+   einen Warmstart durch und installieren Sie das Programm neu.
+
+5. Prfen Sie, ob die Parameter FILES und BUFFERS in der CONFIG.SYS vor-
+   handen sind und ob diese hoch genug gesetzt sind z. B.:
+
+
+
+   FILES = 30
+   BUFFERS = 30
+
+6. Disk-Cache-Programme k”nnen bei der Installation zu Problemen fhren.
+   Entfernen Sie eventuell die entsprechenden Treiber aus den Dateien
+   CONFIG.SYS oder AUTOEXEC.BAT.
+   Fhren Sie anschlieáend einen Warmstart durch, und versuchen Sie die
+   Installation erneut.
+
+7. Wenn Sie eine VGA-Mono-Karte besitzen, sollten Sie vor dem Start
+   des Programms folgenden Befehl eingeben: MODE CO80.
+
+8. Wenn die Maus nicht funktioniert, berprfen Sie, ob ein Maus-
+   treiber geladen wurde (z.B.: MOUSE.SYS oder MOUSE.COM).
+
+
+
+
+
+
+
+
+
+
+9. Bitte fllen Sie die Registrierungskarte aus (liegt jedem Programm 
+   bei) und schicken diese an folgende Adresse :
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³Registrierungskarte                ³                              ³
+   ³                                   ³                              ³
+   ³Lassen Sie sich m”glichst sofort   ³                              ³
+   ³nach Erhalt der Software regis-    ³                              ³
+   ³trieren, denn :                    ³                              ³
+   ³- Anwenderuntersttzung nur dann   ³                              ³
+   ³  kostenlos                        ³    M&T Software Partner      ³
+   ³- Sie erhalten Informationen ber  ³    International GmbH        ³
+   ³  neue Produkte/Produktverbesserung³    Hans-Pinsel-Str. 9b       ³
+   ³- Sie sind als ehrlicher Anwender  ³                              ³
+   ³  bekannt                          ³    8013 Haar bei Mnchen     ³
+   ³  Registrierung fr :_____________ ³                              ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+
+
+
+
+
+Sollten trotzdem noch Probleme auftreten und Sie den technischen Support
+zu Rate ziehen, sollten Sie folgende Angaben bereithalten :
+
+1. Genaue Fehlerbeschreibung
+2. Wieviel freien Hauptspeicher Sie noch haben.
+3. Mit welchem Betriebssystem Sie arbeiten.
+4. Ausdruck der Dateien CONFIG.SYS und AUTOEXEC.BAT.
+5. Genaue Systemkonfiguration (z.B.: Computertyp u. -hersteller, Grafik-
+   kartentyp u. -hersteller, ....)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bei PC Astrologie 2.0 werden 111 Horoskope von berhmten Schauspielern
+und Knstlern mitgeliefert. Diese befinden sich im Verzeichnis HOROSKOP.
+
+Neue oder aktualisierte Druckertreiber finden Sie eventuell in unserer
+MSPI-Mailbox:
+
+Nummer    : 089/46 15 15
+Parameter : 1200 ... 14400; 8/N/1
+
+Nach erfolgter Registrierung (siehe auch Seite 3 im Handbuch) k”nnen Sie
+diese Druckertreiber auch bei unserem Support telefonisch oder schriftlich
+anfordern.
